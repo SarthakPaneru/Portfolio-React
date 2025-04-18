@@ -13,10 +13,7 @@ import {
   SiSpringboot,
   SiDocker
 } from "react-icons/si";
-import { 
-  BiLogoAws 
-} from "react-icons/bi";
-import { TbBrandGolang } from "react-icons/tb";
+import { FaAws } from "react-icons/fa";
 
 function Techstack() {
   return (
@@ -31,7 +28,7 @@ function Techstack() {
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <BiLogoAws />
+        <FaAws />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiDocker />
