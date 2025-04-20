@@ -27,6 +27,7 @@ jobs:
           rm -rf docs
           mkdir docs
           cp -r build/* docs/
+          cp CNAME docs/
 
       - name: Commit and push /docs
         run: |
