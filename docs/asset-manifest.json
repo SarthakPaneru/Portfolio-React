@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.edc5ce9c.css",
-    "main.js": "/static/js/main.f3c6bd8a.js",
+    "main.js": "/static/js/main.9cef3ce4.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/logo.png": "/static/media/logo.eb6de1a52369a95af426.png",
@@ -9,7 +9,7 @@
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/Sarthak_Paneru_Resume.pdf": "/static/media/Sarthak_Paneru_Resume.195fee8e3f636a5c5ee7.pdf",
+    "static/media/Sarthak_Paneru_Resume.pdf": "/static/media/Sarthak_Paneru_Resume.cff09622a075f5cc4228.pdf",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.edc5ce9c.css.map": "/static/css/main.edc5ce9c.css.map",
-    "main.f3c6bd8a.js.map": "/static/js/main.f3c6bd8a.js.map",
+    "main.9cef3ce4.js.map": "/static/js/main.9cef3ce4.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edc5ce9c.css",
-    "static/js/main.f3c6bd8a.js"
+    "static/js/main.9cef3ce4.js"
   ]
 }
